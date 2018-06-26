@@ -1,2 +1,3 @@
 *.pyc
 Dsite/*.pyc
+db.sqlite3
